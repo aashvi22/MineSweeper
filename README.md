@@ -1,5 +1,7 @@
 CIS 120 Game Project README
 
+![alt text](https://github.com/aashvi22/Minesweeper/blob/master/demopic.png?raw=true)
+
 ===================
 
 =: Core Concepts :=
